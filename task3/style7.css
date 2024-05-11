@@ -1,0 +1,35 @@
+body{
+    background-color: wheat;
+}
+#box1{
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    width: 40%;
+    
+
+}
+#box2{
+    border: 2px solid black;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    width: 40%;
+    
+
+}
+#box3{
+    border: dotted 2px red;
+    color: red;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    width: 40%;
+}
+.p-red{
+    border: dotted 2px red;
+}
+.red-mark{
+    background-color: red;
+}
